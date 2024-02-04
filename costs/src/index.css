@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;/*Utilizado para fazer com o que o conteúdo fique respectivamente dentro da div*/
+  font-family: 'Open Sans', sans-serif;
+}
+/*Definifindo estilos padrões*/
+html, body, #root{
+  background-color: #efefef;
+  height: 100%;
+}

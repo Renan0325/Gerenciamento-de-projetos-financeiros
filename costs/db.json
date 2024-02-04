@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "name": "Desenvolvimento do aplicativo",
+      "budget": "100000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cos": 0,
+      "services": [
+        {
+          "name": "Teste desenvolvimento",
+          "cost": "2500",
+          "description": "Teste Aplicativo",
+          "id": "00156329-b485-4274-b38e-adc617ed1c00"
+        },
+        {
+          "name": "Renan",
+          "cost": "3499",
+          "description": "testando serviço",
+          "id": "04279da2-674b-442f-b4b2-7be693b36031"
+        }
+      ],
+      "id": 1,
+      "cost": null
+    },
+    {
+      "name": "Projeto desenvolvimento web",
+      "budget": "2500",
+      "category": {
+        "id": "5",
+        "name": "Setor Administrativo"
+      },
+      "cos": 0,
+      "services": [
+        {
+          "name": "Teste",
+          "cost": "5000",
+          "description": "Desenvolvimento de aplicações",
+          "id": "f77ac3f9-913f-40d0-b833-775ca5c367df"
+        },
+        {
+          "name": "Realizando Atividade",
+          "cost": "10",
+          "description": "Trabalho",
+          "id": "e198b47a-03a0-4155-afef-d54719711a77"
+        },
+        {
+          "name": "Service",
+          "cost": "100",
+          "description": "Realizando Teste",
+          "id": "85eafadb-76b2-4196-9a4b-b01322da878e"
+        },
+        {
+          "name": "Trabalho",
+          "cost": "300",
+          "description": "abcdef",
+          "id": "dbccab84-7fd7-41c4-9a3e-b2e8aac5c880"
+        },
+        {
+          "name": "Testando",
+          "cost": "100",
+          "description": "abcdef",
+          "id": "9dd0e6db-532e-46ff-b06e-c823257518df"
+        },
+        {
+          "name": "Renan Augusto Da Silva",
+          "cost": "1000",
+          "description": "areadadad",
+          "id": "2f212e2e-311f-4886-9443-56af99723d3b"
+        }
+      ],
+      "id": 2,
+      "cost": 1100
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Desing"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "Setor Administrativo"
+    }
+  ]
+}
